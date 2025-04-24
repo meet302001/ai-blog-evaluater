@@ -69,7 +69,7 @@ streamlit run main2.py
 
 **Meet Bhanushali**  
 📧 bhanushallimeet302001@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/bhanushallimeet)
+🔗 [LinkedIn](https://linkedin.com/in/bhanushalimeet)
 
 ---
 
